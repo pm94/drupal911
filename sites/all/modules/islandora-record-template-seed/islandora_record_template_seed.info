@@ -1,0 +1,14 @@
+name = "Islandora Record Template Seed"
+description = "Create a new record by prepopulating the record create mods form with a pre-existing fedorda mods record object"
+description = "A chillco fork of the Islandora Large Image Solution Pack"
+dependencies[] = xml_forms
+package = Islandora
+version = 7.x-1.0
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2014-02-06
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "islandora-record-template-seed"
+datestamp = "1391671705"
+
